@@ -10,9 +10,12 @@
   - [ ] 04.同步goerli测试网
   - [ ] 05.同步主网
 - 02.analysis_code：geth源代码，笔记穿插于代码当中【中文】
-  - [ ] 
+  - [ ] rlp包
+  - [ ] trie包
 - 03.analysis_article：geth文章解析
-  - [ ] 01.geth架构
+  - [x] 01.geth架构
+  - [ ] 02.rlp包：以太坊序列化处理
+  - [ ] 03.trie包：以太坊重要的数据结构
 
 ## 参考资料
 
@@ -25,40 +28,6 @@
   - 仓库03：https://github.com/ZtesoftCS/go-ethereum-code-analysis
   - 博客01：https://knarfeh.com/2018/03/10/go-ethereum%20%E6%BA%90%E7%A0%81%E7%AC%94%E8%AE%B0%EF%BC%88%E6%A6%82%E8%A7%88%EF%BC%89/
   - 博客02：https://blog.soreatu.com/posts/ethereum-source-code-reading/#eth%E5%8D%8F%E8%AE%AE%E6%B3%A8%E5%86%8C
-
-
-test-update-2023.9.6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
